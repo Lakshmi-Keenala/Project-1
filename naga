@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+    int n,a,b;
+    scanf("%d",&n);
+    printf("Enter a number");
+    if(a=b)
+    {
+        printf("A");
+    }
+    else
+    {
+        printf("b");
+    }
+    return 0;
+}
